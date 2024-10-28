@@ -1,0 +1,40 @@
+Task 1:7-8:gemini
+
+The bar chart below shows the percentage of Australian men and women in different age groups who did regular physical activity in 2010.
+
+Summarise the information by selecting and reporting the main features, and make comparison where relevant.
+
+
+The histogram demonstrates the proportion of Australian men and women who exersice regularly in various age groups in 2010.
+
+Overall, except for the first age group, females worked out more than males in Australia. Moreover, although the fluctuations in portion of men were severe, it was smoother for women.
+
+Staring from younger age groups, those between 15 to 44, 52.8% of male juveniles worked out regularly while this percentage was 47.7% for females in the same range. It is noteworthy that only in this group most males worked out on a regular basis, and in other age groups most of them are passive. Likewise, only in this group males exercise more than females. The trend reversed onward. Even though 48.9% of women between 25 to 34 had regular physical activities, males' share were only 42.2%. Situation got even worst for men in 35-to-44 group. Percentages for men dipped at 39.5%, which was the largest gap between them and women,; women's share was 52.5%. 
+
+Turning to the people in range of 54 and over, the highest portion in exercising is achieved by females at 53.3% for the 45 to 54 age group. However, this percentage gradually decreased among women in older groups. Nevertheless, the trend for men interestingly reversed where is began from 43.1% for 45 to 54 and after a steady rise reached 46.7% for 65 and over. 
+
+
+
+
+
+Task 2:6.5-7(7-6.5-6.5-6)
+
+Some people believe that it is good to share as much information as possible in scientific research, business and the academic world. Others believe that some information is too important to be shared freely.
+
+Discuss both views and give your own opinion.
+
+
+
+Opinions are divided as to the extent of freely disclosing information. While some argue that some data is too valuable to be freely shared in academic or business environments, I believe people have to share their knowledge for free for the sake of humanity.
+
+As Newton once said, the reason that I achieved this much is because I was standing on the shoulders of a giant. As humans, we rely on previously known knowledge to thrive and create new values, ideas or mediums. For instance, GPT 4, which have both business and academic applications, is available freely today because scientists have been started to research AI since 1970. Due to sharing their discoveries for free, Open AI managed to create transformer models (commonly known as Chat GPT), which has made our lives much easier. In my opinion, this trend of sharing information for free should continue to help others to achieve more.
+
+On the other hand, others may say that some information or discoveries should be kept in secret. For example, prior to Merton's famous option pricing model, which revolutionized derivative markets, another person, who most people do not recognize his name, discovered the formula and was making money by using it. The formula was basically making him free money in risky stock markets, and he knew by sharing it, others would realize the pattern; Therefore, he could not make profit easily. Although it was tempting not to disclose the formula, Merton introduced it to the world and was rewarded with the Nobel prize. World appreciated him and associated the formula with his name. Thus, while some information are valuable in a way that individuals can take advantage off of it, by sharing it people will acknowledge the impact and will remember their name forever.
+
+In conclusion, even though some disagree with freely providing important knowledge to public for their personal gain, my firm believe is that knowledge should be available for free. As a result of this, people can add new values or design novel technology which could ease our lives.
+
+
+
+
+
+
