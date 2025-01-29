@@ -1,0 +1,86 @@
+Task 1:
+
+
+
+The bar chart below shows the percentage of Australian men and women in different age groups who did regular physical activity in 2010.
+
+
+Summarise the information by selecting and reporting the main features, and make comparisons where relevant
+
+
+The bar chart illustrates what proportion of Australian men and women did regular physical activity in 2010 in six age groups.
+
+Overall, Women at all age groups, except for the first one, had more regular physical activities, compared to men.
+
+
+At 52.8%, 15-to-24-year-old men did regular physical activity, accounted for the highest figure among other age groups for men. However, this percentage drastically declined to 42.2% for 25-to-34 men and then to a low of 39.5% for those between 35 to 44. This was the lowest proportion both among men and women. After this age, the older the men get, the higher proportion of them did regular physical activity, reaching 46.7% in 65-and-over group.
+
+
+In comparison, the highest proportion of women between 45 to 54 did regular exercise, almost 10 percentages points more then men in the same group. This figure was closely followed by 53% and 52.5% for the 55-to-64 and 35-to-44 women, respectively. In contrast, only 47.7% of young women (15 to 24 year olds) were regularly active, almost 5 percentages point less than men in the same group. Notably, elderly females had roughly the same amount of regular activity as elderly men.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Task 2:
+
+Some people believe that it is good to share as much information as possible in scientific research, business and the academic world. Others believe that some information is too important or too valuable to be shared freely.
+
+
+Discuss both these views and give your own opinion.
+
+
+
+Although some would say it is beneficial to share large amount of information in various fields, many are against sharing such invaluable data for free. while disclosing information is important in some areas, I support the latter view because of the and security of people.
+
+One the one hand, it is by sharing information that we can thrive and improve. The nature of science (also many businesses) is incremental, meaning that a novel idea is generally based on previous ones. Breakthroughs or innovations happen by introducing, combining, or modifying already known things. Even Sir Isac Newton famously attributed his achievements in physics to the discoveries of others. Revealing new information helps others to think of other ideas, which can potentially lead to new inventions that can make our lives easier. For instance, as a result of disclosing Bitcoin source code, people introduced Ethereum, which is a cryptocurrency with an efficient and environmentally-friendly mining pattern. Due to this, less electricity is used for mining, saving much of invaluable, finite fossil fuels.
+
+One the other hand, due to safety, security, and privacy some information must not be shared freely or revealed at all. Since some information is sensitive, it is invaluable and is dangerous to be shared or to be sold. To illustrate, military data or a hash algorithm used to decode a massenger's texting services belongs to these groups. Disclosing such information can endenger the business, citizens or even a country. However, due to advertising purposes, users contact information in e-commerce businesses, such as E-mail or mobile numbers, are widely sold at a good price. Not only does this help the company to make a profit, but it also helps other businesses to gain more customers. 
+
+In conclusion, while sharing informaiton, particularly in academics, is linked to our prosperity and advancement, some sorts of information should not be shared freely. Additionally, under no circumstances, should some data, especially in sensitive organizations, be shared.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

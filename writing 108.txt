@@ -1,0 +1,57 @@
+Task 1:
+
+
+The graph below shows the average monthly change in the prices of three metals during 2014.
+
+
+Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+
+
+
+The graph illustrates the monthly percentage changes in the price of three metals, namely copper, nickel and zinc, in 2014.
+
+Overall, while the price of nickel has the highest volatility, that of copper was relatively stable. Copper experienced more positive months compared to others.
+
+
+Volatility was the highest in nickel. At +6% in january, nickel had the record for the highest growth in a month compared to other metals. Although this positive trend continued, the growth diminished, and in june it recorded a -3% decline. Not until october, did it regain increase in price.
+
+Copper was the least volatile metal compared to others. During 2014, it ranged from +2% to almost -0.5%. It only had two negative months, namely may and june. Similarly, although varied more, from +3% to -1%, the changes in the price of zinc were also relatively limited. It reached its all-time-monthly high at +3% in febuary. Following 3 more consecutive positive months, zinc started to experience 5 negative months before an reaching almost 1.8% and 2% climb in the last months of the year.
+
+
+
+
+
+
+
+
+Task 2:
+
+
+In many countries, people are now living longer than ever before. Somepeople say an ageing population creates problems for governments. Other people think there are benefits if society has more elderly people.To what extent do the advantages of having an ageing population outweigh the disadvantages?
+
+
+
+
+
+
+
+
+
+
+
+Due to recent technological advances, well-being has been improved, leading to higher life expectency. Although having an aging population might be beneficial to society, the challenges, including healthcare-related ones and those that will emerge in job market, are more pronounced.
+
+On the one side, numerous difficulties can be associated with this trend. The primary issue of having an aging population is a smaller size of workforce. This lack of employees in job market is a significant problem for the government. This is because most of the elderly are retired. As a result, not only do they not work, but the governement has to provide pansion for them, putting pressure on working segment of the economy. In addition, healthcare is another challenge. The olds are more prone to diseases, particularly age-related ones. Therefore, there is a higher chance that they would need medical attention such as surgeries, check ups, and so forth, compared to others. This also poses a challenge for the government as it is obligated to provide insurance for them.
+
+On the other hand, admittedly, those people can be valuable assets in leadership and management rules. Having years of experience and being faced with a range of situations, the elderly can make wiser decisions according to each scenario. This is an important leadership skill; thus, they can be assigned to management roles, such as becoming a politician, CEO of a company, or mayor of a town. While this is true, due to ever-increasing pace of life they might not know how to deal with new circumstances. To illustrate, they can make wrong decisions regarding policies related to cryptocurrencies since there was no such technology 20 years ago. Hence, a young leader might even perform better in some cases.
+
+In conclusion, while the elderly can lead a company and society by making wiser decisions, having an aging population is more of a liability than an asset for governments for these reasons: providing insurance, the need for medical care, pansion, and retirement.  
+
+
+
+
+
+
+
+
+

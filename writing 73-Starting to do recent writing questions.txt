@@ -1,0 +1,54 @@
+Task 1:
+
+The bar chart shows the number of times per week (in 1000s), over five weeks, that three computer packages were downloaded from the internet. ▪️Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+
+
+
+The chart demonstrates how many times three various libraries, the technical word for computer packages, are downloaded during five weeks.
+
+Overall, In all weeks, relatively speaking, the numbers were similar compared to each other, where  ActiveX downloaded the most while less than that number was required for Net. Interestingly, the number of downloads for Java consistently rose.
+
+Patterns were somehow predictable for the first three weeks. Although the download of Net continued to declined from almost 38 to its dip at less than 18, numbers for  java and ActiveX increased. For ActiveX, this number grew from roughly 70 in the first week to nearly 115 in week 3. Likewise, downloads of Java rose from just above 40 in week 1 to nearly 50 times in week 3.
+
+However, except for Jave this trend did not continue. Java downloads followed its pattern in the first three weeks and with a steady rise reached just above 80 times in week 5. The trend in Net reversed and downloads increased from its peak in week 3 to an all-time-high at approximately 45 in the last week. Finally, after fluctuating around 120, ActiveX managed to reach just above 120.
+
+
+
+
+
+
+
+
+
+
+Task 2:
+
+Some people say that the main environmental problem of our time is the loss of particular species of planets and animals. Others say that there are more important environmental problems. Discuss both these views and give your own opinion.
+
+It is argued that, today, the extinction of certain species is the main issue regarding the environment because of the potential interruptions in our food chain. Yet, the opposing group believe other challenges, such as climate change, are more significant. I agree with the former view due to the fact that researchers will be incapable of finding any solution for it if that problem emerges.
+
+On the one hand, some people believe that the domino effect of losing such living beings can hurt humans. In other terms, the lack of existence of some beings in lower levels of the food chain may be detrimental to us since our existence is inextricably intertwined with them. For instance, losing bees reduce the rate of reproduction among flowers and other plants, which either play a crucial role in our daily diet or is the main source of food among livestocks which we consume as food.
+
+On the other hand, it is believed by the opposing group that problems such as climate change are more critical. That is to say, one major concern regarding this issue is the global warming. This phenomenon facilitate the natural procedure of melting ice in both poles, ended in rise in sea levels. This increase is detrimental to all living species on the plant; thus, this should be a bigger concern.
+
+From my point of view, the latter issue is more significant compared to the loss of particular species. Although the extinction of certain animals or plants in the food chain can interrupt our lives, scientists are generally capable of finding new source of food in crisis. Nevertheless, we are far from solving the potential challenge of higher sea level, if it is not unsolvable.
+
+In conclusion, even though the loss of certain living beings can hurt us, by disrupting our diet, it is not the most important problem that we need to deal with. This is because, scientists, currently, have solutions for artificial foods while there is no answer for natural disasters such as rise in sea level, which can be caused by global warming. Therefore, the former has the higher priority. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

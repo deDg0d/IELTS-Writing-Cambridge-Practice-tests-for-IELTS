@@ -1,0 +1,84 @@
+Task 1:
+
+The chart below shows the number of households in the US by their annual income in 2007, 2011 and 2015.
+Summarise the information by selecting and reporting the main features, and make comparisons where relevant.
+
+
+
+The chart gives information about the number of US households based on their yearly salaries in three years: 2007, 2011, and 2015.
+
+Overall, fewer US households receive average salary in a year, while the number of those in two extreme brackets were consistently higher. However, relatively speaking, the trend remaind unchanged in general. 
+
+25 million households earned less than $25,000 in 2007, which was the lowest number in this bracket throughout the period. While the lowest number of population earned $75,000-$99,999 annually, about 30 million of them earned $100,000 or more.
+
+In comparison, the annual income of the first category peaked in 2011, reaching nearly 29 millions. Interestingly, the number of those earning $25,000 to $49,999 a year reach a high  of almost 30 millions in that year (both among other groups in 2011 and within the same group in other years). Notably, only approximately 14 million people belonged to the penultimate group.
+
+Notably, the number of those $100,000 or more reach a all-time high at roughly 33 million in 2015. While this figure for the middle class group remained essentially unchanged, the population of the poorest group declined by nearly 1 million.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Task 2:
+
+Some university students want to learn about other subjects in addition totheir main subjects. Others believe it is more important to give all their time and attention to studying for a qualification.Discuss both these views and give your own opinion.
+
+
+Give reasons for your answer and include any relevant examples from your own knowledge or experience.
+
+
+
+
+It is suggested that some college students prefer to take additional courses beside their main subjects. However, others think they should dedicate all of their resources to earn one degree. While the latter group may have some valid points, I agree with the first view since it supports freedom.
+
+On the one hand, many would argue that students are educated adults who know what is best for their future and careers. They may have unique goals, such as a business idea or a particular path to a career. For instance, an electrical engineer may want to become the CEO of a power plant, because of this, they may need MBA-related courses. Similarly, it is common to become a quantitative analyst after completing Ph.D. in statistics or mathematics, so those students might need to learn several subjects in finance. Hence, they should be allowed to take whatever additional courses they want. I personally agree with this since we are living in a free and democratic world. We shall not limit individualism.
+
+On the other hand, some think allowing this can lead to a lower performance in their main studies. Should they spend more time on their main subjects, they will learn them better. This is because students will not be distracted by other less-related courses. In addition, studying a diverse range of topics results in understanding of many concepts but with a limited depth. Not only will this not be useful for them, but it can also make it difficult to focus on their main studies. To illustrate, studying web development courses instead of deeply concenterating on important ones, such as data structures, for software engineer students can prevent them from from learning basic concepts they need for continuing their education, Thus, damaging their careers.
+
+In conclusion, while some people say, due to the higher chance of success, students should only devote their undivided attention to earning a qualification, I firmly believe that students should be free to study other courses. This is because, in a free world, they must have a chance to learn anything that can help them achieving their goals.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
